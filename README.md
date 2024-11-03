@@ -1,4 +1,4 @@
-# crop_automation
+# Crop Automation
 Image Cropper - Potong Gambar Sesuai Keinginan
 
 Petunjuk
